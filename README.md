@@ -1,74 +1,18 @@
-# 👋 Hello, I'm Sahil – AWS DevOps Engineer
+# 💫 About Me:
+# Hi, I'm Sahil 👋<br><br>🚀 DevOps Engineer focused on building scalable, reliable, and secure systems through automation.<br><br>## ⚙️ Tech Stack<br>- ☁️ Cloud & Platforms: AWS (Certified Solutions Architect), Azure (Fundamentals)  <br>- 🌐 Web Servers: NGINX, Apache, IIS  <br>- 🔧 DevOps Tools: Terraform, Jenkins, Docker, Kubernetes, Argo CD  <br>- 🔍 Code Quality & Security: SonarQube, Trivy  <br>- 📦 Build Tools: Maven  <br>- 📊 Monitoring: Prometheus, Grafana, Loki  <br>- 💻 Scripting: Bash, Python  <br><br>## 🚀 What I Do<br>- Design and automate infrastructure using Infrastructure as Code  <br>- Build and optimize CI/CD pipelines  <br>- Deploy and manage containerized applications  <br>- Implement security scanning and code quality checks in pipelines  <br>- Monitor and troubleshoot production systems  <br><br>## 📌 Projects<br>- 🔹 3-Tier Architecture Deployment  <br>- 🔹 Kubernetes Monitoring Setup (Prometheus + Grafana)  <br>- 🔹 CI/CD Pipeline with Security Scanning (Trivy + SonarQube)  <br>- 🔹 Multi-Region Disaster Recovery Architecture  <br>- 🔹 Java Application Build & Deployment using Maven  <br><br>## 🎯 Focus<br>Automation, scalability, and system reliability with integrated security practices.<br><br>---<br>⭐ Always learning. Always building.
 
-Welcome to my GitHub profile! As a passionate AWS DevOps Engineer, I thrive on automating, deploying, and optimizing cloud-native solutions. My work revolves around building robust CI/CD pipelines, leveraging the best DevOps tools, and championing infrastructure as code.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-shaikh-530398287/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@itzmesahil) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/itzmesahil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itzmesahilshaikh@gmail.com) 
 
-## ⚡ About Me
-
-- 🚀 DevOps Engineer specialized in AWS Cloud
-- 🛠️ Automation enthusiast & open-source advocate
-- 🌍 Dedicated to scalable, reliable, and secure infrastructure
-
----
-
-## 🧰 Skills & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4B2A?style=for-the-badge&logo=argo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=itzmesahil&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=itzmesahil&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmesahil&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=itzmesahil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚦 Favorite DevOps Moments
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="DevOps Automation" width="400"/>
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Cloud Deployments" width="400"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="CI/CD Pipelines" width="400"/>
-</p>
-
----
-
-## 🏅 My DevOps Stack
-
-| Category            | Tools & Technologies                                      |
-|---------------------|----------------------------------------------------------|
-| **Source Control**  | Git, GitLab                                              |
-| **CI/CD**           | Jenkins, GitLab CI/CD, GitHub Actions                    |
-| **Containers**      | Docker, Kubernetes                                       |
-| **Cloud**           | AWS                                                      |
-| **Infra as Code**   | Terraform, CloudFormation                                |
-| **Deployment**      | ArgoCD, Helm                                             |
-| **Scripting**       | Python, Bash                                             |
-| **Monitoring**      | Prometheus, Grafana                                      |
-
----
-
-## 📈 GitHub Stats
-
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itzmesahil&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
-
----
-
-## 📬 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourwebsite.com)
-
----
-
-> _“Automate the boring stuff, deploy the exciting stuff!”_
-
----
-
-_Thanks for checking out my profile. Let’s build and automate together!_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
