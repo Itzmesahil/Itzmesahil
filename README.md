@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a3a5c&height=200&section=header&text=Sahil%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Automation%20%7C%20On-Prem&descAlignY=58&descSize=18&descColor=aaccff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a3a5c&height=200&section=header&text=Sahil%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Automation%20%7C%20Infrastructure&descAlignY=58&descSize=18&descColor=aaccff"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Cloud+%2B+On-Prem+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+Certified+Solutions+Architect;Building+Scalable+%26+Secure+Infrastructure;Always+Learning.+Always+Building.+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+Certified+Solutions+Architect;Building+Scalable+%26+Secure+Infrastructure;Always+Learning.+Always+Building.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
