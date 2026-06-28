@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:1a3a5c&height=200&section=header&text=Sahil%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Automation%20%7C%20Infrastructure&descAlignY=58&descSize=18&descColor=aaccff"/>
+# 👋 Hi, I'm Sahil Shaikh
+### Cloud & DevOps Engineer | AWS | Docker | Kubernetes | Terraform
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+Certified+Solutions+Architect;Building+Scalable+%26+Secure+Infrastructure;Always+Learning.+Always+Building.+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=itzmesahil&color=0d76bd&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzmesahil/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cloudwithsahil.site)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzmesahilshaikh@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itzmesahil)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;CI%2FCD+%7C+Docker+%7C+Kubernetes+%7C+Terraform;AWS+Certified+Solutions+Architect;Building+Scalable+%26+Secure+Infrastructure;Always+Learning.+Always+Building.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -229,8 +229,14 @@ echo "✅ Production server patching — Windows & Ubuntu"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,100:0d1b2a&height=120&section=footer&text=Let's%20Connect%20%26%20Build%20Together&fontSize=20&fontColor=aaccff&fontAlignY=65"/>
+---
 
-[![](https://visitcount.itsvg.in/api?id=itzmesahil&icon=6&color=1)](https://visitcount.itsvg.in)
+### 💬 Let's Connect & Build Together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itzmesahil/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cloudwithsahil.site)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itzmesahilshaikh@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=itzmesahil&color=0d76bd&style=flat)
 
 </div>
